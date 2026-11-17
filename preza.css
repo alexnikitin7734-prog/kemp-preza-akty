@@ -99,6 +99,8 @@ h1 em, h2 em { font-style: normal; background: var(--grad); -webkit-background-c
 .ticks li { font-size: 28px; line-height: 1.35; padding-left: 46px; position: relative; }
 .ticks li::before { content: ""; position: absolute; left: 0; top: 13px; width: 22px; height: 22px; background: var(--teal); box-shadow: 6px 6px 0 -2px var(--paper), 6px 6px 0 0 var(--ink); }
 .limit { max-width: 1100px; }
+.s1 h1 { font-size: 118px; margin: 26px 0 28px; max-width: 1240px; }
+.s1 .team { margin: 38px 0 40px; }
 .s2 .foot { position: static; margin-top: 44px; }
 .s2 h2 { margin-bottom: 40px; }
 
